@@ -2,9 +2,6 @@
 O documento apresenta:
 
 -informações acadêmicas;
-
 -habilidades;
-
 -projetos;
-
 -Contato.
