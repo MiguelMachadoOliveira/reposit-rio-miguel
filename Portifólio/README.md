@@ -1,5 +1,5 @@
-## Esta pasta contém o portfólio profissional
-O documento apresenta:
+## Portfólio
+Esta pasta contém o portfólio profissional:
 
 -informações acadêmicas;
 
