@@ -1,5 +1,5 @@
 ## Portfólio
-Esta pasta contém o portfólio profissional:
+Esta pasta contém o portfólio profissional com:
 
 -informações acadêmicas;
 
